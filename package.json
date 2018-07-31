@@ -1,0 +1,28 @@
+{
+  "name": "akvo-rsr-rest",
+  "version": "1.0.0",
+  "description": "Fetch AkvoRSR via API",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint /src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dedenbangkit/akvo-rsr-rest.git"
+  },
+  "keywords": [
+    "Akvo",
+    "RSR",
+    "API",
+    "Python"
+  ],
+  "author": "Deden Bangkit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dedenbangkit/akvo-rsr-rest/issues"
+  },
+  "homepage": "https://github.com/dedenbangkit/akvo-rsr-rest#readme",
+  "dependencies": {
+    "eslint": "^5.1.0"
+  }
+}
